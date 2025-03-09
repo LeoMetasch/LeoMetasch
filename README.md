@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello there! I'm currently a Business Analytics student with a strong interest in Data Science, Algorithmic Trading, and AI. I'm passionate about applying data-driven solutions to real-world problems and continuously expanding my technical skills.
+Hello there! I'm currently a Business Analytics student with a strong interest in Data Science, and AI. I'm passionate about applying data-driven solutions to real-world problems and continuously expanding my technical skills.
 
 🔹 About Me
 
