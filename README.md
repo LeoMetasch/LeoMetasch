@@ -8,13 +8,13 @@ Hello there! I'm currently a Business Analytics student with a strong interest i
 
 💼 Current Role: Intern New Tech AI at G-STAR HQ in Amsterdam.
 
-🚀 Interests: Data Science, Gernerative AI, Agentic Applications.
+🚀 Interests: Data Science, Generative AI, Agentic Applications.
 
 🌍 Future Plans: Exploring AI applications, building intelligent agents, and traveling through Southeast Asia and Latin America.
 
 📌 Current Projects
 
-Building a secure, complex peronal AI assistant for enterprise application.
+Building a secure, complex personal AI assistant for enterprise application.
 
 Azure AI Engineer Associate Certification
 <!--
